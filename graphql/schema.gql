@@ -1,0 +1,13 @@
+type Query{
+ welcome : String
+ hello : String
+}
+input userInput{
+id:String
+name:String
+role:String
+age:Int
+}
+type Mutation {
+ addUser(user:userInput):String
+}
