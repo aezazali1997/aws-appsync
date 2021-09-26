@@ -1,3 +1,10 @@
+# Details
+An application created using aws cdk. It has lambda functions,graphql queries , mutations and resolvers.
+Technologies used
+- aws cdk
+- lambda functions
+- aws appysync for grapgql
+- typescript
 # Welcome to your CDK TypeScript project!
 
 This is a blank project for TypeScript development with CDK.
